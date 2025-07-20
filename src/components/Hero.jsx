@@ -1,5 +1,5 @@
 import React, { useEffect, useState, useContext } from "react";
-import file from '../documents/Graph.pdf'
+import file from '../documents/Resume.pdf'
 import { ThemeContext } from './ThemeContext';
 const Hero = () => {
   const [typed, setTyped] = useState("");
